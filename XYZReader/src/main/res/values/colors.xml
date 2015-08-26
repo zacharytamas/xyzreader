@@ -23,5 +23,5 @@
     <color name="accent100">#FF80AB</color>
 
     <color name="photo_placeholder">@color/accent100</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="textColor">#db000000</color>
 </resources>
